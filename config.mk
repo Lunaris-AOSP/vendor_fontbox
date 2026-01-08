@@ -7,7 +7,6 @@ PRODUCT_PACKAGES += \
     FontRobotoOverlay \
     FontGoogleSansOverlay \
     FontJetBrainsMonoOverlay \
-    FontSpaceGroteskOverlay \
     FontVolteRoundedOverlay
 
 # Include {Lato,Rubik} fonts
